@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: Bumbuco.com
+logo: logo.png # You can add own logo.
+description: Bumbuco offers premium quality agricultural products.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Bumbuco
+  image: sugar.png
+  say-hello: Welcome to Bumbuco
+  bio: Bumbuco is a company that is mainly involved in the agricultural sector. Bumbuco is driven by a strong set of values that define our company; integrity, quality, sustainability and professionalism. We love organic and natural food, combined with personal service. We focus on the success and satisfaction of our customers.
+
+
+#-------------------------------
+# Contact links
+twitter: # Add your Twitter handle
+facebook: # Add your Facebook handle
+dribbble: # Add your Dribbble handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
